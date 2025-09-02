@@ -3,7 +3,7 @@
 💻 Passionate about **software development**, **web apps**, and solving real-world problems through tech.  
 🌱 Currently building projects in **JavaScript, HTML, CSS, Tailwind CSS, and React**, while exploring **Data Structures & Algorithms**.  
 📊 Interested in **Data Analytics** and applying it to real-world use cases.  
-🚀 Working on exciting projects like **AyurWell – an Ayurvedic diet management app for dieticians**, **EchoCart (sustainable shopping companion)**, **GreenMirror (digital carbon footprint tracker)**, and an **AI-powered web application**.  
+🚀 Working on exciting projects like **AyurWell – an Ayurvedic diet management app for dieticians**, **EchoCart (sustainable shopping companion)**, **GreenMirror (digital carbon footprint tracker)**, and an **AI-powered web application(on going)**.  
 🤝 Always open to **collaborating on hackathons, sustainability projects, and chatbot/web app ideas**.  
 📚 Interests: **AI, sustainability, data analytics, statistics, and literature**.  
 
