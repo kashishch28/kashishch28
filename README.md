@@ -30,49 +30,32 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 
 ---
 
-# 📊 GitHub Stats & Contribution Graph
+# 📊 GitHub Stats & Commits  
 
-<!-- Use official GitHub stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashishch28&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)
+<!-- Overall GitHub stats -->
+![](https://github-readme-stats.vercel.app/api?username=kashishch28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-<!-- Reliable Contribution Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kashishch28&theme=react-dark&hide_border=false)
+<!-- Contribution Graph / Streak -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=kashishch28&theme=react-dark&hide_border=false)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&theme=dark&layout=compact&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&theme=dark&hide_border=false&layout=compact&count_private=true)
 
 ---
 
 # 🧩 LeetCode Stats  
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kashish_ch1?theme=dark&font=baloo)
-
----
-
-# 🚀 Projects Showcase
-
-### 1. AyurWell – Ayurvedic Diet Management App
-- Manage diets for patients with Ayurveda guidelines.
-- [GitHub Repo](#) | [Live Demo](#)
-
-### 2. EchoCart – Sustainable Shopping Companion
-- Track environmental impact of online shopping.
-- [GitHub Repo](#) | [Live Demo](#)
-
-### 3. GreenMirror – Digital Carbon Tracker
-- Visualize CO₂ footprint for daily activities.
-- [GitHub Repo](#) | [Live Demo](#)
-
-### 4. AI-powered Web App (Ongoing)
-- Intelligent solutions using AI for real-world problems.
-- [GitHub Repo](#)
-
----
-
-# 👀 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=kashishch28&icon=0&color=0)](https://visitcount.itsvg.in)
