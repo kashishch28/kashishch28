@@ -3,8 +3,8 @@
 💻 Passionate about **software development**, **web apps**, and solving real-world problems through tech.  
 🌱 Currently building projects in **JavaScript, HTML, CSS, Tailwind CSS, and React**, while exploring **Data Structures & Algorithms**.  
 📊 Interested in **Data Analytics** and applying it to real-world use cases.  
-🚀 Working on exciting projects like **AyurWell – an Ayurvedic diet management app for dieticians**, **EchoCart (sustainable shopping companion)**, **GreenMirror (digital carbon footprint tracker)**, and an **AI-powered web application (ongoing)**.  
-🤝 Always open to **collaborating on hackathons, sustainability projects, and chatbot/web app ideas**.  
+🚀 Working on exciting projects like **AyurWell**, **EchoCart**, **GreenMirror**, and an **AI-powered web application (ongoing)**.  
+🤝 Open to **collaboration on hackathons, sustainability projects, and web/app ideas**.  
 📚 Interests: **AI, sustainability, data analytics, statistics, and literature**.  
 
 ---
@@ -17,7 +17,8 @@
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -33,25 +34,45 @@
 
 ---
 
-# 📊 GitHub Stats & Streaks  
+# 📊 GitHub Stats & Contribution Graph
 
-<!-- GitHub Stats -->
-![](https://github-readme-stats.vercel.app/api?username=kashishch28&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<!-- Use official GitHub stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashishch28&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true)
 
-<!-- Streak Stats -->
-![](https://github-readme-streak-stats.herokuapp.com?user=kashishch28&theme=dark&hide_border=false&count_private=true)
+<!-- Reliable Contribution Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kashishch28&theme=react-dark&hide_border=false)
 
 <!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&theme=dark&hide_border=false&layout=compact&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&theme=dark&layout=compact&count_private=true)
 
 ---
 
 # 🧩 LeetCode Stats  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kashish_ch1?theme=dark&font=baloo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kashish_ch1?theme=dark&font=baloo)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=kashishch28&icon=0&color=0)](https://visitcount.itsvg.in)  
+# 🚀 Projects Showcase
 
+### 1. AyurWell – Ayurvedic Diet Management App
+- Manage diets for patients with Ayurveda guidelines.
+- [GitHub Repo](#) | [Live Demo](#)
 
+### 2. EchoCart – Sustainable Shopping Companion
+- Track environmental impact of online shopping.
+- [GitHub Repo](#) | [Live Demo](#)
+
+### 3. GreenMirror – Digital Carbon Tracker
+- Visualize CO₂ footprint for daily activities.
+- [GitHub Repo](#) | [Live Demo](#)
+
+### 4. AI-powered Web App (Ongoing)
+- Intelligent solutions using AI for real-world problems.
+- [GitHub Repo](#)
+
+---
+
+# 👀 Visitor Count
+
+[![](https://visitcount.itsvg.in/api?id=kashishch28&icon=0&color=0)](https://visitcount.itsvg.in)
