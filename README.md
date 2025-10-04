@@ -49,8 +49,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=kashishch28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 <!-- Contribution Graph / Streak -->
-![GitHub Contribution](https://github-readme-stats.vercel.app/api?username=kashishch28&theme=dark&hide_border=false&count_private=true&include_all_commits=true)
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=kashishch28&theme=react-dark&area=true&hide_border=false&calendar=true)
 
 <!-- Top Languages -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&theme=dark&hide_border=false&layout=compact&count_private=true)
