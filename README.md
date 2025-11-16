@@ -1,8 +1,6 @@
 # ⚡ Kashish Chaudhary – AI • Full-Stack • Data
 
-![Banner](https://i.imgur.com/cH9I0y6.gif)
-
-![Typing Animation](https://readme-typing-svg.herokuapp.com?color=00F0FF&size=26&center=true&vCenter=true&width=650&lines=AI+Explorer+and+Problem+Solver;JavaScript+%7C+Python+%7C+React+Developer;Data+Analytics+%7C+ML+%7C+DSA;Turning+Ideas+Into+Digital+Reality)
+## 🧠 “Building, breaking, fixing… repeating — that’s how I grow.”
 
 ---
 
@@ -10,9 +8,9 @@
 - 🔭 Working on **AI-powered web apps**
 - 🌱 Learning **MERN Stack + Machine Learning**
 - ⚡ Solving **DSA daily on LeetCode**
-- 📊 Love data visualization & analytics
+- 📊 Passionate about **data analytics + storytelling**
 - 🎯 Goal: Become an **AI + Full Stack Developer**
-- 🎨 I turn ideas into aesthetic, functional products
+- 🎨 I love turning ideas into functional, aesthetic products
 
 ---
 
@@ -40,11 +38,6 @@
 
 ---
 
-## 🌌 AI Particle Motion
-![Particles](https://i.imgur.com/0e7F8iR.gif)
-
----
-
 ## 📊 GitHub Analytics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kashishch28&show_icons=true&theme=tokyonight&hide_border=true)
@@ -52,11 +45,6 @@
 ![Streak](https://streak-stats.demolab.com?user=kashishch28&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🧩 LeetCode Progress
-![LeetCode](https://leetcard.jacoblin.cool/kashish_ch1?theme=dark&font=baloo&ext=heatmap)
 
 ---
 
@@ -70,9 +58,11 @@
 
 ---
 
-## ✨ Fun GIF
-![Fun](https://i.imgur.com/qf95FvS.gif)
+## 🧩 LeetCode Progress
+![LeetCode](https://leetcard.jacoblin.cool/kashish_ch1?theme=dark&font=baloo&ext=heatmap)
 
 ---
 
-### ⭐ If you like my work, consider starring a repo!
+## ✨ A Thought for the End
+
+> **“Code is never finished. Neither am I.”**
