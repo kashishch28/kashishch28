@@ -1,61 +1,95 @@
-# 👋 Hi, I’m Kashish Chaudhary  
+<div align="center">
 
-💻 Passionate about **software development**, **web apps**, and solving real-world problems through tech.  
-🌱 Currently building projects in **JavaScript, HTML, CSS, Tailwind CSS, and React**, while exploring **Data Structures & Algorithms**.  
-📊 Interested in **Data Analytics** and applying it to real-world use cases.  
-🚀 Working on exciting projects like **AyurWell**, **EchoCart**, **GreenMirror**, and an **AI-powered web application (ongoing)**.  
-🤝 Open to **collaboration on hackathons, sustainability projects, and web/app ideas**.  
-📚 Interests: **AI, sustainability, data analytics, statistics, and literature**.  
+👨‍💻 Kashish Chaudhary
 
----
+Full-Stack Developer | Data Enthusiast | Problem Solver
 
-## 📫 Connect with Me  
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashish-chaudhary-286aa1290/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kashish_ch1/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashishchaudhary586@gmail.com)  
+🎯 About Me
 
----
+I'm a passionate developer who thrives on building innovative solutions and tackling complex challenges. With a strong foundation in full-stack development and a growing interest in data analytics, I'm constantly exploring how technology can solve real-world problems.
 
-# 💻 Tech Stack
+const kashish = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "Python", "Java", "HTML/CSS"],
+  technologies: {
+    frontend: ["React", "Tailwind CSS", "Next.js"],
+    backend: ["Node.js", "Express", "MongoDB"],
+    dataScience: ["Pandas", "NumPy", "Scikit-learn", "Power BI"],
+    tools: ["Git", "Firebase", "VS Code", "Figma"]
+  },
+  currentFocus: "Building AI-powered web applications",
+  interests: ["AI/ML", "Sustainability Tech", "Data Analytics", "Open Source"]
+};
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 
----
+🛠️ Tech Stack
 
-# 📊 GitHub Stats & Commits  
+Frontend Development
 
-<!-- Overall GitHub stats -->
-![](https://github-readme-stats.vercel.app/api?username=kashishch28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+Backend & Databases
 
-<!-- Contribution Graph / Streak -->
-![](https://github-readme-activity-graph.vercel.app/graph?username=kashishch28&theme=react-dark&area=true&hide_border=false&calendar=true)
+Data Science & Analytics
 
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&theme=dark&hide_border=false&layout=compact&count_private=true)
+Tools & Platforms
 
----
+💼 Featured Projects
 
-# 🧩 LeetCode Stats  
+🌿 AyurWell - Healthcare Platform
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kashish_ch1?theme=dark&font=baloo)
+Modern web application for Ayurvedic wellness solutions
+
+Tech Stack: React, Node.js, MongoDB, Tailwind CSS
+
+🛒 EchoCart - E-commerce Solution
+
+Smart shopping platform with personalized recommendations
+
+Tech Stack: JavaScript, Firebase, React
+
+🌱 GreenMirror - Sustainability App
+
+Environmental impact tracker and eco-friendly lifestyle assistant
+
+Tech Stack: React, Python, Data Visualization
+
+🤖 AI Web Application - Ongoing
+
+Next-generation AI-powered web application
+
+Tech Stack: React, Machine Learning, Advanced APIs
+
+📈 GitHub Analytics
+
+<div align="center">
+
+</div>
+
+🏆 Coding Journey
+
+LeetCode Progress
+
+Current Focus: Mastering Data Structures & Algorithms for technical interviews
+
+🌟 What I'm Building Next
+
+🔭 Exploring: Advanced React patterns and state management
+
+🌱 Learning: Machine Learning deployment and MLOps
+
+💡 Experimenting: With real-time applications and WebSockets
+
+🤝 Open to: Hackathons, sustainability projects, and innovative web/app ideas
+
+📬 Let's Connect & Collaborate
+
+I'm always excited to connect with fellow developers, discuss innovative ideas, and collaborate on meaningful projects. Whether it's hackathons, open-source contributions, or building the next big thing in tech - let's create something amazing together!
+
+<div align="center">
+
+Reach out via:
+
+⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+</div>
