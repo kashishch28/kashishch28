@@ -63,6 +63,6 @@
 
 ---
 
-## ✨ A Thought for the End
+
 
 > **“Code is never finished. Neither am I.”**
