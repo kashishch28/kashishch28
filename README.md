@@ -59,7 +59,7 @@
 ---
 
 ## 🧩 LeetCode Progress
-![LeetCode](https://leetcard.jacoblin.cool/kashish_ch1?theme=dark&font=baloo&ext=heatmap)
+![LeetCode](https://leetcard.jacoblin.cool/kashish_ch1?theme=dark&font=baloo&ext=barchart)
 
 ---
 
