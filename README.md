@@ -12,12 +12,13 @@
 
 ## 👨‍💻 About Me
 
-
+```yaml
 Name: Kashish Chaudhary
 Role: AI + Full-Stack Developer
 Currently Learning: MERN + Machine Learning
 Daily Routine: DSA + Projects + Learning
 Goal: Build intelligent & scalable products
+```
 ---
 
 ## 🌐 Connect With Me
@@ -48,7 +49,6 @@ Goal: Build intelligent & scalable products
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kashishch28&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
