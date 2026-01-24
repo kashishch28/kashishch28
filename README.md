@@ -1,17 +1,23 @@
-# ⚡ Kashish Chaudhary – AI • Full-Stack • Data
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B61FF&height=200&section=header&text=Kashish%20Chaudhary&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-## 🧠 “Building, breaking, fixing… repeating — that’s how I grow.”
+<div align="center">
+
+### 🚀 AI • Full-Stack • Data Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=550&lines=AI+%2B+Full-Stack+Developer;Data+Storyteller;DSA+Daily+Learner;Building+Real+World+Projects"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
-- 🔭 Working on **AI-powered web apps**
-- 🌱 Learning **MERN Stack + Machine Learning**
-- ⚡ Solving **DSA daily on LeetCode**
-- 📊 Passionate about **data analytics + storytelling**
-- 🎯 Goal: Become an **AI + Full Stack Developer**
-- 🎨 I love turning ideas into functional, aesthetic products
+## 👨‍💻 About Me
 
+
+Name: Kashish Chaudhary
+Role: AI + Full-Stack Developer
+Currently Learning: MERN + Machine Learning
+Daily Routine: DSA + Projects + Learning
+Goal: Build intelligent & scalable products
 ---
 
 ## 🌐 Connect With Me
@@ -40,9 +46,7 @@
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kashishch28&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashishch28&show_icons=true&theme=tokyonight)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kashishch28&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&layout=compact&theme=tokyonight&hide_border=true)
 
