@@ -49,6 +49,14 @@ Goal: Build intelligent & scalable products
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kashishch28&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </div>
 
+---
+## 🏆 GitHub Trophies
+
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kashishch28&theme=tokyonight&no-frame=true&margin-w=8"/>
+</div>
+
 
 ---
 
@@ -61,13 +69,6 @@ Goal: Build intelligent & scalable products
 ![LeetCode](https://leetcard.jacoblin.cool/kashish_ch1?theme=dark&font=baloo&ext=barchart)
 
 ---
-
-## GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=kashishch28&theme=tokyonight&no-frame=true&margin-w=8"/>
-<div align="center">
-✨ “Code. Learn. Build. Repeat.”
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,100:00F7FF&height=120&section=footer"/> ```
-
 
 ---
 
