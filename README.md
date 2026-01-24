@@ -51,7 +51,7 @@
 ## 🐍 Contribution Snake
 ![Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kashishch28&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashishch28&theme=tokyonight)
 
 ---
 
