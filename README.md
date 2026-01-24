@@ -58,22 +58,22 @@ Goal: Build intelligent & scalable products
 <div align="center">
 
 
-<table>
-<tr>
-<td align="center">
+<div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
+
+
+<div>
 **GitHub Trophies**<br>
 <img src="https://github-profile-trophy.vercel.app/?username=kashishch28&theme=tokyonight&no-frame=true&margin-w=8"/>
-</td>
+</div>
 
 
-<td align="center">
+<div>
 **Contribution Streak**<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashish-chaudhary&theme=tokyonight"/>
-</td>
-</tr>
-</table>
+</div>
 
 
+</div>
 </div>
 
 
