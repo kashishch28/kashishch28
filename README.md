@@ -42,7 +42,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kashishch28&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=kashishch28&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashishch28&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -50,8 +50,6 @@
 
 ## 🐍 Contribution Snake
 ![Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kashishch28&theme=tokyonight)
 
 ---
 
