@@ -36,23 +36,24 @@ Goal: Build intelligent & scalable products
 ## ⚡ **Tech Stack**
 
 ### **Languages**
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,js,java,sql" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,java,ts,sql,cpp" />
+  <br>
+  <b>Python • C • C++ • Java • JavaScript • SQL</b>
 </p>
 
 ### **Frameworks & Tools**
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,express,postgres,mongodb,linux,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,express,postgres,mongodb,linux,git,tailwind,bootstrap" />
+  <br>
+  <b>React • Next.js • NestJS • Node.js • Express • PostgreSQL • MongoDB • Linux • Git • Tailwind • Bootstrap</b>
 </p>
 
-### **Quant & Data**
-
+### **Data & AI**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-<br>
-  <b>NumPy • Pandas • Scikit-learn • Probability • Statistics </b>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,scikitlearn,pytorch" />
+  <br>
+  <b>NumPy • Pandas • Matplotlib • Scikit-learn • PyTorch • Probability • Statistics</b>
 </p>
 
 ---
