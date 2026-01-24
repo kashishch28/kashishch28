@@ -31,7 +31,7 @@ Goal: Build intelligent & scalable products
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashishch28)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashishchaudhary586@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashishch28)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=readme&logoColor=white)][(https://your-portfolio-link.com](https://portfoliowebsitek.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=readme&logoColor=white)][([https://portfoliowebsitek.netlify.app/)])
 ---
 ## ⚡ **Tech Stack**
 
