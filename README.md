@@ -50,11 +50,30 @@ Goal: Build intelligent & scalable products
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kashishch28&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </div>
 
 ---
-## 🏆 GitHub Trophies
+
+
+## 🏆 GitHub Highlights
 
 
 <div align="center">
+
+
+<table>
+<tr>
+<td align="center">
+**GitHub Trophies**<br>
 <img src="https://github-profile-trophy.vercel.app/?username=kashishch28&theme=tokyonight&no-frame=true&margin-w=8"/>
+</td>
+
+
+<td align="center">
+**Contribution Streak**<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashish-chaudhary&theme=tokyonight"/>
+</td>
+</tr>
+</table>
+
+
 </div>
 
 
