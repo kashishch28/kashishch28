@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B61FF&height=200&section=header&text=Kashish%20Chaudhary&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
 
@@ -12,6 +11,13 @@
 </div>
 
 </div>
+
+---
+
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
+
 
 ---
 
@@ -39,6 +45,7 @@ Goal: Build intelligent & scalable products
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,js,java,ts,sql,cpp" />
   <br>
+  <br>
   <b>Python • C • C++ • Java • JavaScript • SQL</b>
 </p>
 
@@ -46,12 +53,14 @@ Goal: Build intelligent & scalable products
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,express,postgres,mongodb,linux,git,tailwind,bootstrap" />
   <br>
+  <br>
   <b>React • Next.js • NestJS • Node.js • Express • PostgreSQL • MongoDB • Linux • Git • Tailwind • Bootstrap</b>
 </p>
 
 ### **Data & AI**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,scikitlearn,pytorch" />
+  <br>
   <br>
   <b>NumPy • Pandas • Matplotlib • Scikit-learn • PyTorch • Probability • Statistics</b>
 </p>
@@ -107,3 +116,6 @@ Goal: Build intelligent & scalable products
 
 
 > **“Code is never finished. Neither am I.”**
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
