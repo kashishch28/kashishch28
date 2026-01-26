@@ -69,34 +69,10 @@ Goal: Build intelligent & scalable products
 
 ## 📊 GitHub Analytics
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kashishch28&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </div>
+![](https://github-readme-stats.vercel.app/api?username=kashishch28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kashishch28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
+![](https://nirzak-streak-stats.vercel.app/?user=kashishch28&theme=dark&hide_border=false)<br/>
 
----
-
-
-## 🏆 GitHub Highlights
-
-
-<div align="center">
-
-
-<div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
-
-
-<div>
-**GitHub Trophies**<br>
-<img src="https://github-profile-trophy.vercel.app/?username=kashishch28&theme=tokyonight&no-frame=true&margin-w=8"/>
-</div>
-
-
-<div>
-**Contribution Streak**<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashish-chaudhary&theme=tokyonight"/>
-</div>
-
-
-</div>
-</div>
 
 
 ---
