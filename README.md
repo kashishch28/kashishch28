@@ -5,7 +5,6 @@
 <h1>👋 Hi, I'm Kashish Chaudhary</h1>
 
 
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=550&lines=AI+%2B+Full-Stack+Developer;Data+Storyteller;DSA+Daily+Learner;Building+Real+World+Projects"/>
 </div>
 
